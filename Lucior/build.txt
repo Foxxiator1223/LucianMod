@@ -1,0 +1,3 @@
+displayName = LuciorMod
+author = Foxx1223
+version = 0.2.1
